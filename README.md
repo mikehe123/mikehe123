@@ -17,16 +17,16 @@ Logic Flow is a note taking web app that translates notes into mindmap charts th
 
 ## Past Projects :sunglasses:
 
-### [Twitter Clone](https://net-twitter-clone.netlify.app) 
+### [Twitter Clone](https://github.com/mikehe123/Twitter-Clone-Client) (Demo site [here)](https://net-twitter-clone.netlify.app)
 Will this replace Twitter? Be the first few to create an account and leave a post. :wink:
 
 ### [Wave Course Matching](https://github.com/mikehe123/Logic-Flow)
 This module matched more than 2500 students with Wave's courses. Curious how it works? :rocket:   
 
-### [Natours](https://github.com/mikehe123/Natour-Webpage) 
+### [Natours](https://github.com/mikehe123/Natour-Webpage)
 An amazing tour site with beautiful styling and animations. :hearts: 
 
-### [Github Battle](https://github-battle-project.netlify.app)
+### [Github Battle](https://github.com/mikehe123/Github-Battle-Project) (Demo site [here)](https://github-battle-project.netlify.app)
 Wanna know if you are more popular than me on github? Checkout Github Battle and test it out. :crossed_swords::crossed_swords::crossed_swords:
 
 (All projects listed above are at my Github [repositories](https://github.com/mikehe123?tab=repositories))
